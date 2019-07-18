@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Portfolio
+title: Welcome to the Codeworld
 
 # Short description of your site
 description: Dope
@@ -20,7 +20,7 @@ description: Dope
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Bio"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#42e6f5"
+navbar-col: "#26cbde"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#d66029"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jayden
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
